@@ -30,7 +30,6 @@ console.log(person1)
 
 console.log(e,d,c)
 
-
 let randomValue : any = 10
 randomValue = true;
 randomValue = 'mesidd'
