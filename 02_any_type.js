@@ -1,3 +1,4 @@
+export {}
 // any data type
 // all property valid
 let myVariable : any = 10;
